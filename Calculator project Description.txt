@@ -1,0 +1,30 @@
+﻿Project 2 :
+
+Calculator for national exam results
+in Tunisia
+
+Description :
+We have developed a great calculator for calculating national exam   results in Tunisia using Python Programming language !
+Hope you like it :)
+1- 6th class :
+      The sixth debate consists of five basic tests:
+ 		-Arabic Language Test : ../20 *1
+		-English test : ../20*1
+		-French language test : ../20*1
+		- Scientific awakening test  : ../20*1
+		-Mathematics test : ../20*1
+
+    The calculator will multiply the result of the test by its value and then divide it by the sum of the tests, to get the final result of the debate: ../20
+
+2- 9th class :
+      The ninth debate consists of five basic tests:
+ 		-Arabic Language Test : ../20 *2
+		-English test : ../20*1
+		-French language test : ../20*1
+		- Scientific awakening test  : ../20*2
+		-Mathematics test : ../20*2
+
+    The calculator will multiply the result of the test by its value and then divide it by the sum of the tests, to get the final result of the debate: ../20
+
+
+
