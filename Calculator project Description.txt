@@ -21,10 +21,107 @@ Hope you like it :)
  		-Arabic Language Test : ../20 *2
 		-English test : ../20*1
 		-French language test : ../20*1
-		- Scientific awakening test  : ../20*2
+		- Sience test  : ../20*2
 		-Mathematics test : ../20*2
 
     The calculator will multiply the result of the test by its value and then divide it by the sum of the tests, to get the final result of the debate: ../20
 
+3-Baccalaureat : 
+     A- Informative : 
+ 		-Arabic Language Test : ../20*1
+        -Philososphy Test : ../20*1
+		-English test : ../20*1
+		-French language test : ../20*1
+        -Physics Test : ../20*2
+        -Algorithms and programming (Written Test) : ../20*     ----->
+                                                                        Algorithms and programming Average : ../20*3
+        -Algorithms and programming (Application Test) : ../20* ----->
+        -Databases Test : ../20*1.5
+        -Information technology and application communication Test : ../20*1.5
+        -Sport Test : ../20*1
+        -Optional Test : ..20*1
+		-Mathematics Test : ../20*3
+    B-Sport : 
+        -Arabic Language Test : ../20*1.5
+        -Philososphy Test : ../20*1.5
+		-English test : ../20*1.5
+		-French language test : ../20*1.5
+        -Physics Test : ../20*1
+        -Sprot specialization (Theoretical Test) : ../20*0.5 ---->
+                                                                   Mathematical specialization Average : ../20*3
+        -Sport specialization (Application Test) : ../20*2.5 ---->
+        -Sport Test : ../20*1
+        -Optional Test : ..20*1
+		-Sience Test  : ../20*3
+		-Mathematics Test : ../20*1
+   C-Mathematics : 
+        -Arabic Language Test : ../20*1
+        -Philososphy Test : ../20*1
+		-English test : ../20*1
+		-French language test : ../20*1
+        -Physics Test : ../20*4
+        - Informative (Written Test) : ../20*     ----->
+                                                            Informative Average : ../20*1
+        -Informative (Application Test) : ../20*  ----->
+        -Sport Test : ../20*1
+        -Optional Test : ..20*1
+		-Sience Test  : ../20*1
+		-Mathematics Test : ../20*4
+   D-Technical :
+        -Arabic Language Test : ../20*1
+        -Philososphy Test : ../20*1
+		-English test : ../20*1
+		-French language test : ../20*1
+        -Physics Test : ../20*3
+        -Technical Test (Application) : ../20*    ----->
+                                                            Technical Test Average : ../20*4
+        -Technical Test (Written) : ../20*         ----->
+        -Informative (Written Test) : ../20*     ----->
+                                                            Informative Average : ../20*1
+        -Informative (Application Test) : ../20*  ----->
+        -Sport Test : ../20*1
+        -Optional Test : ..20*1
+		-Mathematics Test : ../20*3
+  E-Economy :
+        -Arabic Language Test : ../20*1
+        -Philososphy Test : ../20*1
+		-English test : ../20*1
+		-French language test : ../20*1
+        -Geographic and History Test : ../20*2
+        -Economy Test : ../20*3
+        -Behavior Test : ../20*3
+        -Informative (Written Test) : ../20*     ----->
+                                                            Informative Average : ../20*1
+        -Informative (Application Test) : ../20*  ----->
+        -Sport Test : ../20*1
+        -Optional Test : ..20*1
+		-Mathematics Test : ../20*2
+  F-Science : 
+        -Arabic Language Test : ../20*1
+        -Philososphy Test : ../20*1
+		-English test : ../20*1
+		-French language test : ../20*1
+        -Physics Test : ../20*4
+        -Informative (Written Test) : ../20*     ----->
+                                                            Informative Average : ../20*1
+        -Informative (Application Test) : ../20*  ----->
+        -Sport Test : ../20*1
+        -Optional Test : ..20*1
+		-Sience Test  : ../20*4
+		-Mathematics Test : ../20*3
+  G-Languages (Lettre) : 
+        -Arabic Language Test : ../20*4
+        -Philososphy Test : ../20*4
+        -Geographic and History Test : ../20*3
+        -Islamic Test : ../20*1
+		-English test : ../20*2
+		-French language test : ../20*2
+        -Informative (Written Test) : ../20*     ----->
+                                                            Informative Average : ../20*1
+        -Informative (Application Test) : ../20*  ----->
+        -Sport Test : ../20*1
+        -Optional Test : ..20*1
+         
+    The calculator will multiply the result of the test by its value and then divide it by the sum of the tests, to get the final result of the debate: ../20
 
 
