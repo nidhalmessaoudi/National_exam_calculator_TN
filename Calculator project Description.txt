@@ -47,7 +47,7 @@ Hope you like it :)
 		-English test : ../20*1.5
 		-French language test : ../20*1.5
         -Physics Test : ../20*1
-        -Sprot specialization (Theoretical Test) : ../20*0.5 ---->
+        -Sport specialization (Theoretical Test) : ../20*0.5 ---->
                                                                    Mathematical specialization Average : ../20*3
         -Sport specialization (Application Test) : ../20*2.5 ---->
         -Sport Test : ../20*1
